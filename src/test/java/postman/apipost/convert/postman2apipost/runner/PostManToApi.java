@@ -27,7 +27,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 @SpringBootTest
-public class TestService {
+public class PostManToApi {
 
     FolderAdapter folderAdapter = new FolderAdapter();
 
